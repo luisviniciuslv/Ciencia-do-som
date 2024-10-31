@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "3cbcaa064c2a7da5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5fb9ef39fb192db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc1bcfcd5bec2268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciência do som.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ciência do som"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36dba7f656b9094a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c09520dff8301f2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "febe2c67d6990128",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "8e0d60a4293c7c25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "41025813ecf42e6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36a0a37569292bfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "d66896dbc6d72451",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85058cc955f61fab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ciência do som.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Ciência do som"
+            }
+          },
+          {
+            "id": "b98e3dd92bfd7b42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ciência do som.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Ciência do som"
+            }
+          },
+          {
+            "id": "957b4a6bb27938ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bfd95d3f9bac85ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ciência do som.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Ciência do som"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "fc1bcfcd5bec2268",
+  "lastOpenFiles": [
+    "Pasted image 20241031005926.png",
+    "Pasted image 20241030010857.png",
+    "Pasted image 20241030010048.png",
+    "Ciência do som.md",
+    "Pasted image 20241030010257.png",
+    "Pasted image 20241030005310.png"
+  ]
+}
