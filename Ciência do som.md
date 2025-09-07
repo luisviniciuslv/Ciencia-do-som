@@ -23,7 +23,7 @@ A vibração de um objeto é como um "empurrão" inicial que coloca as molécula
 ---
 
 # Onda sonora
-![[Pasted image 20241030005310.png]]
+![Pasted image 20241030005310.png]
 
 - **A parte de cima:** Representa como as ondas sonoras viajam pelo ar. As bolinhas vermelhas simbolizam as moléculas de ar. Quando um som é produzido, ele faz com que essas moléculas vibrem, criando áreas de alta pressão (compressão) e baixa pressão (rarefação). É como se o ar estivesse sendo comprimido e descomprimido em sequência.
 
