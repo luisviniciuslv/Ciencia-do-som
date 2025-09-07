@@ -23,7 +23,7 @@ A vibração de um objeto é como um "empurrão" inicial que coloca as molécula
 ---
 
 # Onda sonora
-![Pasted image 20241030005310.png]
+![alttext](ondaSonora.png)
 
 - **A parte de cima:** Representa como as ondas sonoras viajam pelo ar. As bolinhas vermelhas simbolizam as moléculas de ar. Quando um som é produzido, ele faz com que essas moléculas vibrem, criando áreas de alta pressão (compressão) e baixa pressão (rarefação). É como se o ar estivesse sendo comprimido e descomprimido em sequência.
 
@@ -41,7 +41,7 @@ A vibração de um objeto é como um "empurrão" inicial que coloca as molécula
 
 ---
 # Som periódico e aperiódico
-![[Pasted image 20241030010857.png]] 
+![Alt text](periodicoAperiodico.png)
 
 
 ## Som Periódico
@@ -85,7 +85,7 @@ Sons aperiódicos transitórios são eventos sonoros de curta duração, caracte
 
 ---
 # Forma de onda 
-![[Pasted image 20241030010257.png]]
+![alttext](formaDeOnda.png)
 
 Agora podemos representar um som complexo ousando a forma de onda, quase como que vimos anteriormente, porém agora com algo real. Ela pode ser extraída de qualquer Áudio e expressa dessa forma. É uma forma rápida de compreensão e da visualização de um áudio. 
 
@@ -97,7 +97,7 @@ Agora podemos representar um som complexo ousando a forma de onda, quase como qu
 ---
 # Representação de uma onda senoidal
 
-![[Pasted image 20241031005926.png]]
+![alttext](senoidal.png)
 
 Podemos replicar essa mesma onda senoidal com uma função matemática
 $y(t) = A sin(2πft +$φ)
